@@ -1,7 +1,6 @@
 ## Hi there 👋Jay Tripathi
 
-hi all
-
+ 
 <!--
 **jayt1307/jayt1307** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
